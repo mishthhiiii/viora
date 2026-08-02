@@ -113,15 +113,17 @@ The project demonstrates the integration of hardware, computer vision, conversat
 
 # 🎥 Demonstration
 
-The following demonstrations showcase different aspects of **VIORA**, from its introduction and hardware setup to AI-powered interaction and robotic capabilities.
+Explore VIORA through a collection of demonstrations showcasing its design, hardware integration, AI capabilities, and interactive robotic features.
 
 | Demo | Description |
 |------|-------------|
-| 🎬 **VIORA Introduction** | A cinematic introduction showcasing the robot's design, personality, and core vision. [▶️ Watch](./media/videos/Video%20Project%201.mp4) |
-| 🛠️ **Hardware Setup** | A walkthrough of the physical robot, hardware integration, and project setup. [▶️ Watch](./media/videos/Video%20Project%201%20(1).mp4) |
-| 🤖 **AI Conversation** | Demonstration of AI-powered voice interaction and intelligent responses. [▶️ Watch](./media/videos/1000082971.mp4) |
-| 😊 **Facial Expressions** | Robot display animations and expression rendering. [▶️ Watch](./media/videos/1000082972.mp4) |
-| 🚶 **Robot Movement** | Live demonstration of robot movement and control. [▶️ Watch](./media/videos/1000082974.mp4) |
+| 🎬 **VIORA Introduction** | A cinematic introduction showcasing the vision, design, and personality of VIORA. <br>➡️ **[Watch Video](https://github.com/mishthhiiii/viora/blob/main/media/videos/Video%20Project%201.mp4)** |
+| 🛠️ **Robot Setup** | A walkthrough of the complete hardware setup and project assembly. <br>➡️ **[Watch Video](https://github.com/mishthhiiii/viora/blob/main/media/videos/Video%20Project%201%20(1).mp4)** |
+| 🤖 **AI Demonstration** | Demonstration of VIORA's AI-powered interaction and capabilities. <br>➡️ **[Watch Video](https://github.com/mishthhiiii/viora/blob/main/media/videos/1000082971.mp4)** |
+| 😊 **Interactive Expressions** | Live demonstration of facial expressions and interactive responses. <br>➡️ **[Watch Video](https://github.com/mishthhiiii/viora/blob/main/media/videos/1000082972.mp4)** |
+| 🚶 **Robot Movement** | Demonstration of movement and robotic control. <br>➡️ **[Watch Video](https://github.com/mishthhiiii/viora/blob/main/media/videos/1000082974.mp4)** |
+
+> 💡 **Tip:** Click any video to open it in GitHub's video viewer.
 
 ---
 
