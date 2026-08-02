@@ -5,7 +5,7 @@
 ### AI-Powered Humanoid Robot
 
 <p>
-An intelligent robotics platform that combines <b>Embedded Systems</b>, <b>Computer Vision</b>, <b>Speech Processing</b>, and <b>Generative AI</b> to create a natural and interactive human-robot experience.
+An intelligent robotics platform that combines <b>Embedded Systems</b>, <b>Computer Vision</b>, <b>Speech Processing</b>, and <b>Generative AI</b> to create a natural and interactive human-robot experience. 
 </p>
 
 <img src="./media/images/1.jpeg" width="850" alt="VIORA"/>
