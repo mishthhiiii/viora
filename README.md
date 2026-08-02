@@ -85,7 +85,7 @@ The project demonstrates the integration of hardware, computer vision, conversat
 
 <br>
 
-<b>Objective</b>
+<b>Objectives</b>
 
 </td>
 
