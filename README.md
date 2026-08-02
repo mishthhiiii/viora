@@ -5,7 +5,7 @@
 ### AI-Powered Humanoid Robot
 
 <p>
-An intelligent robotics platform that combines <b>Embedded Systems</b>, <b>Computer Vision</b>, <b>Speech Processing</b>, and <b>Generative AI</b> to create a natural and interactive human-robot experience. 
+An intelligent robotics platform integrating <b>Embedded Systems</b>, <b>Computer Vision</b>, <b>Speech Processing</b>, and <b>Generative AI</b> to deliver an interactive human-robot experience.
 </p>
 
 <img src="./media/images/1.jpeg" width="850" alt="VIORA"/>
@@ -27,13 +27,11 @@ An intelligent robotics platform that combines <b>Embedded Systems</b>, <b>Compu
 
 ---
 
-# 🌟 Overview
+# 📖 Overview
 
-VIORA is an AI-powered humanoid robot designed to make human-robot interaction simple, engaging, and practical.
+VIORA is an AI-powered humanoid robot that combines embedded electronics, speech processing, computer vision, and generative AI to create an engaging human-robot interaction experience.
 
-It combines embedded electronics with artificial intelligence to understand voice commands, recognize faces, display animated expressions, interact naturally with users, and perform robotic movements.
-
-The project demonstrates the integration of hardware, computer vision, conversational AI, and speech technologies into a single intelligent robotic platform.
+The robot supports intelligent voice interaction, animated facial expressions, robotic movement, and AI-powered conversations. A standalone Face Recognition module has been developed separately and can be integrated with the platform.
 
 ---
 
@@ -47,7 +45,7 @@ The project demonstrates the integration of hardware, computer vision, conversat
 
 <td align="center">
 
-<img src="./media/images/2.jpeg" width="430">
+<img src="./media/images/2.jpeg" width="420">
 
 <br>
 
@@ -57,7 +55,7 @@ The project demonstrates the integration of hardware, computer vision, conversat
 
 <td align="center">
 
-<img src="./media/images/3.jpeg" width="430">
+<img src="./media/images/3.jpeg" width="420">
 
 <br>
 
@@ -71,21 +69,21 @@ The project demonstrates the integration of hardware, computer vision, conversat
 
 <td align="center">
 
-<img src="./media/images/4.jpeg" width="430">
+<img src="./media/images/4.jpeg" width="420">
 
 <br>
 
-<b>Harware Overview</b>
+<b>Hardware Overview</b>
 
 </td>
 
 <td align="center">
 
-<img src="./media/images/5.jpeg" width="430">
+<img src="./media/images/5.jpeg" width="420">
 
 <br>
 
-<b>Objectives</b>
+<b>Project Objectives</b>
 
 </td>
 
@@ -99,7 +97,7 @@ The project demonstrates the integration of hardware, computer vision, conversat
 
 <br>
 
-<b>USP</b>
+<b>Unique Selling Points</b>
 
 </td>
 
@@ -110,18 +108,19 @@ The project demonstrates the integration of hardware, computer vision, conversat
 </div>
 
 ---
+
 # 🎥 Demonstration
 
-Experience **VIORA** through a collection of demonstrations showcasing its design, hardware integration, AI capabilities, facial expressions, and robotic movement.
+Experience **VIORA** through demonstrations showcasing its design, hardware integration, AI capabilities, facial expressions, and robotic movement.
 
 <div align="center">
 
-## 📂 VIORA Demo Gallery
-
-Explore all project demonstrations in one place.
+## 📂 Demo Gallery
 
 <a href="https://drive.google.com/drive/folders/1_HhMondo1LDwCDPt9qpbGf3yPqOSQh8z?usp=drive_link">
-<img src="https://img.shields.io/badge/▶️%20Open%20Demo%20Gallery-Google%20Drive-0F9D58?style=for-the-badge&logo=googledrive&logoColor=white">
+
+<img src="https://img.shields.io/badge/Open%20Demo%20Gallery-Google%20Drive-0F9D58?style=for-the-badge&logo=googledrive&logoColor=white"/>
+
 </a>
 
 </div>
@@ -130,44 +129,42 @@ Explore all project demonstrations in one place.
 
 - 🎬 VIORA Introduction
 - 🛠️ Hardware Setup
-- 🤖 AI-Powered Interaction
+- 🤖 AI Interaction
 - 😊 Facial Expressions
 - 🚶 Robot Movement
-
 
 ---
 
 # ✨ Key Features
 
-- 🎙️ AI-powered voice interaction
-- 🤖 Natural conversations using Gemini AI
-- 👤 Real-time face recognition
-- 😊 Animated facial expressions
-- 📺 TFT/OLED display interface
-- 🚶 Bluetooth-controlled robot movement
-- 🔊 Audio playback and speech synthesis
-- 📷 Camera-based computer vision
-- ⚡ Embedded hardware control
-- 🧠 Intelligent human-robot interaction
+- 🎙️ AI-powered Voice Interaction
+- 🤖 Natural Conversations using Gemini AI
+- 😊 Animated Facial Expressions
+- 📺 TFT Display Interface
+- 🚶 Bluetooth-controlled Robot Movement
+- 🔊 Speech Synthesis
+- 📷 Camera Integration
+- ⚡ Embedded Hardware Control
+- 🧠 Intelligent Human-Robot Interaction
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
-## 🛠 Hardware
+## Hardware
 
 - Arduino UNO
 - L298N Motor Driver
 - HC-05 Bluetooth Module
 - TFT Display
-- Speaker Module
 - Servo Motors
 - DC Motors
-- Lithium Battery Pack
+- Speaker Module
+- Lithium Battery
 
 ---
 
-## 💻 Software
+## Software
 
 - Python
 - C++
@@ -175,57 +172,9 @@ Explore all project demonstrations in one place.
 - Arduino IDE
 - OpenCV
 - Gemini API
-- Vosk Speech Recognition
+- Vosk
 - pyttsx3
 - TensorFlow Lite
-
----
-
-# ⚡ System Highlights
-
-<table>
-
-<tr>
-
-<td align="center">🎙️<br><b>Voice Recognition</b></td>
-
-<td align="center">🤖<br><b>AI Conversation</b></td>
-
-<td align="center">👁️<br><b>Face Detection</b></td>
-
-<td align="center">😊<br><b>Animated Display</b></td>
-
-</tr>
-
-<tr>
-
-<td align="center">🚶<br><b>Robot Movement</b></td>
-
-<td align="center">📡<br><b>Bluetooth Control</b></td>
-
-<td align="center">🔊<br><b>Speech Output</b></td>
-
-<td align="center">⚡<br><b>Embedded Control</b></td>
-
-</tr>
-
-</table>
-
----
-
-# 🧠 What Makes VIORA Different?
-
-✔ AI-powered conversational interaction
-
-✔ Friendly animated facial expressions
-
-✔ Computer vision-based face recognition
-
-✔ Real-time speech processing
-
-✔ Embedded robotics integrated with AI
-
-✔ Designed for education, demonstrations, and interactive assistance
 
 ---
 # 🏗️ System Architecture
@@ -233,7 +182,7 @@ Explore all project demonstrations in one place.
 ```text
                     👤 User
                       │
-         Voice Commands / Face Input
+             Voice Commands
                       │
           ┌───────────▼───────────┐
           │   Speech Recognition  │
@@ -262,47 +211,44 @@ Explore all project demonstrations in one place.
 
 # ⚙️ Working Modules
 
-## 🎤 Speech Module
+### 🎤 Speech Module
 
 - Voice command recognition
 - AI-powered conversations
 - Natural speech synthesis
-- Interactive responses
 
----
-
-## 👁️ Vision Module
+### 👁️ Vision Module
 
 - Face Detection
-- Face Recognition
 - Image Processing
 - Camera Integration
 
----
+### 😊 Expression Module
 
-## 😊 Expression Module
-
-- Animated eye movements
-- Emotional facial expressions
+- Animated facial expressions
 - TFT display rendering
+- Interactive visual feedback
 
----
+### 🚶 Movement Module
 
-## 🚶 Movement Module
+- Bluetooth-controlled navigation
+- Motor control
+- Robot movement
 
-- Forward / Backward movement
-- Left & Right turning
-- Bluetooth-based navigation
-- Mobile-controlled operation
+### 🔊 Audio Module
 
----
-
-## 🔊 Audio Module
-
-- Voice playback
-- AI-generated responses
-- Speaker integration
+- AI-generated speech
+- Audio playback
 - Interactive communication
+
+---
+
+# 🔗 Related Repository
+
+The Face Recognition module is maintained as a separate repository to keep the project modular and independently maintainable. It can be integrated with **VIORA** for real-time face detection and recognition.
+
+**Repository:**  
+👉 **[Face Recognition Module](https://github.com/mishthhiiii/face-recognition)**
 
 ---
 
@@ -312,8 +258,7 @@ Explore all project demonstrations in one place.
 VIORA
 │
 ├── media
-│   ├── images
-│   └── videos
+│   └── images
 │
 ├── trained_face_examples
 ├── viora_face
@@ -323,70 +268,26 @@ VIORA
 ├── VIORA_FACIAL_EXPRESSION
 │
 ├── README.md
-├── vioraimg.png
 └── VIORA_FACE_MOVEMENT_FINAL.ino
 ```
 
 ---
 
-# 🧠 AI Capabilities
-
-- 🎙️ Voice Recognition
-- 🤖 Conversational AI
-- 👤 Face Recognition
-- 👁️ Computer Vision
-- 😊 Facial Expression Rendering
-- 🗣️ Speech Synthesis
-- 📚 Real-time Information Retrieval
-- 🧩 Human-Robot Interaction
-
----
-
-# 💡 Applications
-
-- 🏫 Smart Education
-- 👨‍🏫 Home Tutoring
-- 🏢 Reception Assistant
-- 🧒 Children's Learning
-- 👵 Elderly Assistance
-- 🎤 Interactive Demonstrations
-- 🤖 Robotics Research
-- 🎓 Academic Projects
-
----
-
-# 🚀 Future Improvements
-
-- Object Detection
-- Gesture Recognition
-- Autonomous Navigation
-- Emotion Detection
-- Cloud Connectivity
-- Mobile Application
-- IoT Integration
-- Wi-Fi Control
-- Multi-language Support
-- Edge AI Deployment
-
----
-
 # 📦 Installation
 
-## Clone Repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/mishthhiiii/viora.git
 ```
 
-Move into the project directory.
+Move to the project directory.
 
 ```bash
 cd viora
 ```
 
----
-
-## Install Python Dependencies
+### Install Python dependencies
 
 ```bash
 pip install opencv-python
@@ -395,66 +296,28 @@ pip install vosk
 pip install pyttsx3
 ```
 
----
+### Upload Arduino Code
 
-## Upload Arduino Code
-
-Open
+Open the following file in the Arduino IDE and upload it to the Arduino Uno:
 
 ```text
 VIORA_FACE_MOVEMENT_FINAL.ino
 ```
 
-using the Arduino IDE and upload it to the Arduino UNO.
+### Run
+
+Launch the Python modules to enable:
+
+- AI-powered voice interaction
+- Speech recognition
+- Display animations
+- Robot movement
 
 ---
-
-## Run
-
-Start the Python modules to enable:
-
-- Voice Recognition
-- AI Conversation
-- Face Recognition
-- Display Animation
-
----
-
-# 📸 Gallery Highlights
-
-✔ Interactive AI Robot
-
-✔ Face Recognition
-
-✔ Voice Assistant
-
-✔ Embedded Electronics
-
-✔ Computer Vision
-
-✔ Real-time AI Responses
-
-✔ Mobile Controlled Robot
-
-✔ Educational Robotics Platform
-
----
-
-# 🎯 Project Goals
-
-- Develop an intelligent humanoid robot capable of natural interaction.
-- Integrate AI with embedded hardware in a practical robotic system.
-- Demonstrate real-time speech, vision, and movement capabilities.
-- Build an engaging educational robotics platform.
-
----
-
-
-
 
 <div align="center">
 
 
-**Made with ❤️ by Mishthi Chaurasia**
+*Made with ❤️ Mishthi Chaurasia*
 
 </div>
