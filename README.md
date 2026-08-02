@@ -61,7 +61,7 @@ The project demonstrates the integration of hardware, computer vision, conversat
 
 <br>
 
-<b>Objectives & Vision</b>
+<b>Core Capabilities</b>
 
 </td>
 
@@ -75,7 +75,7 @@ The project demonstrates the integration of hardware, computer vision, conversat
 
 <br>
 
-<b>Project Highlights</b>
+<b>Harware Overview</b>
 
 </td>
 
@@ -85,7 +85,7 @@ The project demonstrates the integration of hardware, computer vision, conversat
 
 <br>
 
-<b>Core Capabilities</b>
+<b>Objective</b>
 
 </td>
 
@@ -99,7 +99,7 @@ The project demonstrates the integration of hardware, computer vision, conversat
 
 <br>
 
-<b>Live Demonstration Setup</b>
+<b>USP</b>
 
 </td>
 
@@ -110,20 +110,30 @@ The project demonstrates the integration of hardware, computer vision, conversat
 </div>
 
 ---
-
 # 🎥 Demonstration
 
-Explore VIORA through a collection of demonstrations showcasing its design, hardware integration, AI capabilities, and interactive robotic features.
+Experience **VIORA** through a collection of demonstrations showcasing its design, hardware integration, AI capabilities, facial expressions, and robotic movement.
 
-| Demo | Description |
-|------|-------------|
-| 🎬 **VIORA Introduction** | A cinematic introduction showcasing the vision, design, and personality of VIORA. <br>➡️ **[Watch Video](https://github.com/mishthhiiii/viora/blob/main/media/videos/Video%20Project%201.mp4)** |
-| 🛠️ **Robot Setup** | A walkthrough of the complete hardware setup and project assembly. <br>➡️ **[Watch Video](https://github.com/mishthhiiii/viora/blob/main/media/videos/Video%20Project%201%20(1).mp4)** |
-| 🤖 **AI Demonstration** | Demonstration of VIORA's AI-powered interaction and capabilities. <br>➡️ **[Watch Video](https://github.com/mishthhiiii/viora/blob/main/media/videos/1000082971.mp4)** |
-| 😊 **Interactive Expressions** | Live demonstration of facial expressions and interactive responses. <br>➡️ **[Watch Video](https://github.com/mishthhiiii/viora/blob/main/media/videos/1000082972.mp4)** |
-| 🚶 **Robot Movement** | Demonstration of movement and robotic control. <br>➡️ **[Watch Video](https://github.com/mishthhiiii/viora/blob/main/media/videos/1000082974.mp4)** |
+<div align="center">
 
-> 💡 **Tip:** Click any video to open it in GitHub's video viewer.
+## 📂 VIORA Demo Gallery
+
+Explore all project demonstrations in one place.
+
+<a href="https://drive.google.com/drive/folders/1_HhMondo1LDwCDPt9qpbGf3yPqOSQh8z?usp=drive_link">
+<img src="https://img.shields.io/badge/▶️%20Open%20Demo%20Gallery-Google%20Drive-0F9D58?style=for-the-badge&logo=googledrive&logoColor=white">
+</a>
+
+</div>
+
+### Included Demonstrations
+
+- 🎬 VIORA Introduction
+- 🛠️ Hardware Setup
+- 🤖 AI-Powered Interaction
+- 😊 Facial Expressions
+- 🚶 Robot Movement
+
 
 ---
 
